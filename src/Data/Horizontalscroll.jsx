@@ -1,0 +1,55 @@
+const Horizontalscroll =[
+
+    {
+       "id":1,
+       "icon":"https://icons8.com/icon/Y1Q7JEyjKHFf/cricket-ball",
+       "name":"cricket"
+    },
+    {
+        "id":2,
+        "icon":"https://icons8.com/icon/Y1Q7JEyjKHFf/cricket-ball",
+        "name":"cricket"
+     },
+     {
+        "id":3,
+        "icon":"https://icons8.com/icon/Y1Q7JEyjKHFf/cricket-ball",
+        "name":"cricket"
+     },
+     {
+        "id":4,
+        "icon":"https://icons8.com/icon/Y1Q7JEyjKHFf/cricket-ball",
+        "name":"cricket"
+     },
+     {
+        "id":5,
+        "icon":"https://icons8.com/icon/Y1Q7JEyjKHFf/cricket-ball",
+        "name":"cricket"
+     },
+     {
+        "id":6,
+        "icon":"https://icons8.com/icon/Y1Q7JEyjKHFf/cricket-ball",
+        "name":"cricket"
+     },
+     {
+        "id":7,
+        "icon":"https://icons8.com/icon/Y1Q7JEyjKHFf/cricket-ball",
+        "name":"cricket"
+     },
+     {
+        "id":7,
+        "icon":"https://icons8.com/icon/Y1Q7JEyjKHFf/cricket-ball",
+        "name":"cricket"
+     },
+     {
+        "id":7,
+        "icon":"https://icons8.com/icon/Y1Q7JEyjKHFf/cricket-ball",
+        "name":"cricket"
+     },
+     {
+        "id":7,
+        "icon":"https://icons8.com/icon/Y1Q7JEyjKHFf/cricket-ball",
+        "name":"cricket"
+     },
+    ]
+    
+    export default Horizontalscroll

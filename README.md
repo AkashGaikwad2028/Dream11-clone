@@ -7,6 +7,7 @@
              1) React Native Linear Gradient 
              2)React Native Navigation 
              3) React native Drawer/Stack Navigation
+             4) Firebase Integration for User Authentication
 
 3) Folders -:
             1)Constants
